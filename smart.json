@@ -3,7 +3,7 @@
   "description": "ZURB Foundation Javascript-only package; allows for per-project/non-package use of Foundation's SCSS/Compass version.",
   "homepage": "https://github.com/tptee/meteor-foundation-js-only",
   "author": "Tyler Paul Thompson (tylerpaulthompson.com)",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "git": "https://github.com/tptee/meteor-foundation-js-only.git",
   "packages": {}
 }
